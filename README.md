@@ -49,9 +49,8 @@ The dataset contains movie information including:
 4. **Recommendation** – Input a movie name → system returns top 5 similar movies based on feature similarity.
 
 Contact
+
 For questions, feedback, or collaboration:
 
 LinkedIn: www.linkedin.com/in/rahul-pal-81ab29272
 Email: pal164087@gmail.com
-Naruto: The Lost Story - Mission: Protect the Waterfall Village!
-Crime Busters
