@@ -48,7 +48,7 @@ The dataset contains movie information including:
 3. **Model Training** – Fit a NearestNeighbors model with cosine similarity.
 4. **Recommendation** – Input a movie name → system returns top 5 similar movies based on feature similarity.
 
-Contact
+## Contact
 
 For questions, feedback, or collaboration:
 
